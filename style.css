@@ -1,0 +1,107 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: lightgrey;
+  padding: 20px;
+  margin-top: 0;
+  padding-bottom: 0px;
+}
+
+a {
+  text-decoration: none;
+
+}
+
+#header {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  background-color: coral;
+  color: white;
+  width: 100%;
+}
+
+#navbar {
+  background-color: black;
+  color: white;
+}
+
+#navbar ul {
+  padding: 0px;
+  list-style: none;
+}
+
+#navbar li {
+  display: inline;
+}
+
+#navbar a {
+  padding-right: 10px;
+  color: white;
+}
+
+.li{
+  list-style: none;
+  padding-bottom: 20px;
+}
+
+.container {
+  width: 90%;
+  
+}
+
+.container2 {
+  
+}
+
+
+.h2{
+  padding: 20px;
+  color:#A26911
+}
+
+.p{
+  padding-bottom: 10px;
+}
+
+.table {
+  padding: 10px;
+  border: 1px solid red;
+  border-radius: 30px;
+  width: 100%;
+  background-color: grey;
+
+}
+
+.th {
+  padding: 10px;
+  border: 50px solid blue;
+  background-color: white;
+  width: 80%;
+  border-radius: 10px;
+}
+
+.td {
+  border: 10px solid blue;
+  width: 80%;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.myform label {
+  display: block;
+
+  
+}
+
+.btn{
+  background-color: #52CCAF;
+  border-radius: 10px;
+}
+
+.footer {
+  text-align: center;
+}
